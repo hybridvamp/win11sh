@@ -3,13 +3,13 @@ Bedava Windows 11 VDS (1 Saat) - original author: Thuonghai001
 
 <img src="https://i.imgur.com/er8jcIF.png" width="500" />
 
-## METHOD:
+## METOD:
 
-- Go to: [Katacoda Terminal](https://www.katacoda.com/openshift/courses/subsystems/container-internals-lab-2-0-part-1)
-- Click on **"START SCENARIO"**
-- Go to **"Terminal 2"**
+- 1. Adım: [Katacoda Terminal](https://www.katacoda.com/openshift/courses/subsystems/container-internals-lab-2-0-part-1)
+- 2. Adım: **"START SCENARIO"**'a tıkla
+- 3. Adım: **"Terminal 2"** sekmesine geç
 
-### And paste the following commands:
+### Ve alttaki kodları sırası ile kopyala ve yapıştır:
 
 1. `wget -O run.sh https://raw.githubusercontent.com/LAW-1337/Windows11_RDP/main/run.sh`
 
@@ -17,24 +17,24 @@ Bedava Windows 11 VDS (1 Saat) - original author: Thuonghai001
 
 3. `./run.sh`
 
-- Now login (or create an account) on https://ngrok.com/ 
+- Bu link üzerinden hesabına giriş yap (yoksa oluştur) https://ngrok.com/ 
 
-- And copy your token here: https://dashboard.ngrok.com/get-started/your-authtoken
+- ve bu linkten tokenini kopyala: https://dashboard.ngrok.com/get-started/your-authtoken
 
-- Paste your ngrok token in the terminal.
-- Then after the build it will give you the credentials of rdp.
-- You can now login using **User** and **Password**.
+- ngrok tokenini terminale yapıştır.
+- Sonra derlemeden sonra size rdp'nin giriş bilgilerini verecektir.
+- Şu anda User ve Password bilgileri ile giriş yapabilirsin.
 
 ## CREDITS:
 Original author: Thuonghai001
 
 Youtube channel: https://www.youtube.com/channel/UCi80Ipndm3QovIn5XisUz3g
 
-Github repo: https://github.com/kmille36/Linux-to-Windows-with-QEMU
+Github repository: https://github.com/kmille36/Linux-to-Windows-with-QEMU
 
 ## DISCLAIMER:
- - Do not overuse this method.
- - No illegal things
- - No Hosting, Mining, Cracking.
+  - Bu yöntemi çok fazla kullanmayın.
+  - Yasadışı şeyler yapmayın.
+  - Hosting, Madencilik, Cracking yapmayın.
 
 
