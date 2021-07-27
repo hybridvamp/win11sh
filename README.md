@@ -32,7 +32,7 @@ Youtube channel: https://www.youtube.com/channel/UCi80Ipndm3QovIn5XisUz3g
 
 Github repository: https://github.com/kmille36/Linux-to-Windows-with-QEMU
 
-## DISCLAIMER:
+## SORUMLULUK REDDİ:
   - Bu yöntemi çok fazla kullanmayın.
   - Yasadışı şeyler yapmayın.
   - Hosting, Madencilik, Cracking yapmayın.
