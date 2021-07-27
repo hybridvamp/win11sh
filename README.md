@@ -11,7 +11,7 @@ Bedava Windows 11 VDS (1 Saat) - original author: Thuonghai001
 
 ### Ve alttaki kodları sırası ile kopyala ve yapıştır:
 
-1. `wget -O run.sh https://raw.githubusercontent.com/LAW-1337/Windows11_RDP/main/run.sh`
+1. `wget -O run.sh https://raw.githubusercontent.com/Raxana7/Windows11-RDP/main/run.sh`
 
 2. `chmod +x run.sh`
 
