@@ -1,7 +1,7 @@
 # Windows11 RDP
-Free Windows 11 RDP (1HOUR) - original author: Thuonghai001
+Bedava Windows 11 VDS (1 Saat) - original author: Thuonghai001
 
-<img src="https://i.imgur.com/1QZfKzC.png" width="500" />
+<img src="https://i.imgur.com/er8jcIF.png" width="500" />
 
 ## METHOD:
 
