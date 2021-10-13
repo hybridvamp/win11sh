@@ -6,7 +6,7 @@
     "stack": "heroku-20",
     "buildpacks": [
         {
-            "url": "https://github.com/trustatom-oss/heroku-buildpack-shell.git"
+            "url": "https://github.com/trustatom-oss/heroku-buildpack-shell"
         }
     ],
     "formation": {
