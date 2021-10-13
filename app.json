@@ -6,7 +6,7 @@
     "stack": "heroku-20",
     "buildpacks": [
         {
-            "url": "heroku/shell"
+            "url": "heroku/subshell"
         }
     ],
     "formation": {
